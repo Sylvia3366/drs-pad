@@ -47,17 +47,17 @@ Rendered on Fusion360!
 <img width="747" height="641" alt="Screenshot 2026-06-19 at 8 05 35 PM" src="https://github.com/user-attachments/assets/4eed2338-465e-4443-b097-25a11b4a7332" />
 
 # Bill of Materials 🧾
-| Name | Qty | Unit | Price (USD) | Total (USD) | Source |
-| :--- | :---: | :---: | ---: | ---: | :--- |
-| Seeed Studio XIAO ESP32 S3 | 1 | pcs | 13.81 | 13.81 | [Link](https://www.aliexpress.us/item/3256808047100037.html) |
-| 1.14 inch IPS LCD 135x240 | 1 | pcs | 2.72 | 2.72 | [Link](https://www.aliexpress.us/item/3256808427301455.html) |
-| 1N4148 SOD-123 Diode | 9 | pcs | 0.04 | 0.33 | [Link](https://www.aliexpress.us/item/3256806021629352.html) |
-| Cherry MX Switch | 9 | pcs | 0.77 | 6.95 | [Link](https://www.aliexpress.us/item/3256808812099705.html) |
-| M2 4mm Screws | 4 | pcs | 0.03 | 0.12 | [Link](https://www.aliexpress.us/item/2251832785290389.html) |
-| M2 14mm Screws | 4 | pcs | 0.04 | 0.14 | [Link](https://www.aliexpress.us/item/2251832785290389.html) |
-| PCB | 1 | pcs | 0.80 | 0.80 | [Link](https://jlcpcb.com) |
-| PLA 3D Printed Case | 1 | pcs | - | - | 
-| **Total** | **30** | **-** | **-** | **24.87** | **-** |
+| Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
+| :--- | :---: | :---: | ---: | ---: | ---: | ---: | :--- |
+| Seeed Studio XIAO ESP32 S3 | 1 | pcs | 13.81 | 13.81 | 1 | 13.81 | [Link](https://www.aliexpress.us/item/3256808047100037.html) |
+| 1.14 inch IPS LCD 135x240 | 1 | pcs | 2.72 | 2.72 | 1 | 2.72 | [Link](https://www.aliexpress.us/item/3256808427301455.html) |
+| 1N4148 SOD-123 Diode | 9 | pcs | 0.04 | 0.33 | 100 | 3.70 | [Link](https://www.aliexpress.us/item/3256806021629352.html) |
+| Cherry MX Switch | 9 | pcs | 0.77 | 6.95 | 10 | 7.72 | [Link](https://www.aliexpress.us/item/3256808812099705.html) |
+| M2 4mm Screws | 4 | pcs | 0.03 | 0.12 | 50 | 1.51 | [Link](https://www.aliexpress.us/item/2251832785290389.html) |
+| M2 14mm Screws | 4 | pcs | 0.04 | 0.14 | 50 | 1.75 | [Link](https://www.aliexpress.us/item/2251832785290389.html) |
+| PCB | 1 | pcs | 0.80 | 0.80 | 5 | 4.00 | [Link](https://jlcpcb.com) |
+| PLA 3D Printed Case | 1 | pcs | - | - | - | - |
+| **Total** | **30** | **-** | **-** | **24.87** | **-** | **35.21** | **-** |
 
 # Build and Assembly 🔧
 
