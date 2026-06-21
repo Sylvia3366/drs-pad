@@ -16,7 +16,7 @@ As for the theme: I've been an F1 fan for some time now, and I've grown a habit 
 
 How does it work?
 -
-So I made the DRS-Pad! Aside from being your usual, run-of-the-mill macropad for improving workflow and allowing your fingers to rest, there's a little screen that updates you on the latest F1 standings in real time! On a typical, non-race or quali day, the DRS-Pad will flicker between the WDC (driver's championship) and WCC (constructor's championship) every minute. During free practice, quali, and race days, the screen will update every minute with live feed on the current event, displaying the top 8 drivers. This is done through using an open source API **(https://openf1.org)**.
+So I made the DRS-Pad! Aside from being your usual, run-of-the-mill macropad for improving workflow and allowing your fingers to rest, there's a little screen that updates you on the latest F1 standings in real time! On a typical, non-race or quali day, the DRS-Pad will flicker between the WDC (driver's championship) and WCC (constructor's championship) every minute. During free practice, quali, and race days, the screen will update every minute with live feed on the current event, displaying the top 9 drivers. This is done through using an open source API **(https://openf1.org)**.
 
 Now, you can save your fingers AND enjoy some nice F1 updates all at the same time :)!
 
