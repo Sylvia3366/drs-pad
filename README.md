@@ -78,3 +78,9 @@ Assembly
 4. Place the assembled PCB into the bottom case.
 5. Secure on the mounting holes with M2 4mm screws.
 6. Secure the top case on the screw holes with M2 14mm screws (I used 12mm in the CAD, which works).
+7. Use Arduino IDE for the firmware.
+8. Connect the ESP32 to your computer via USB-C to upload code.
+9. Upload firmware.
+10. Make sure to change the WiFi so the network matches your own.
+11. Test the OLED display and keycaps.
+12. Test live updates.
