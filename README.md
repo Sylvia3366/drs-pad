@@ -49,7 +49,7 @@ Rendered on Fusion360!
 # Bill of Materials 🧾
 | Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
 | :--- | :---: | :---: | ---: | ---: | ---: | ---: | :--- |
-| Seeed Studio XIAO ESP32 S3 | 1 | pcs | 13.81 | 13.81 | 1 | 13.81 | [Link](https://www.aliexpress.us/item/3256808047100037.html) |
+| Seeed Studio XIAO ESP32 S3 | 1 | pcs | 9.46 | 9.46 | 1 | 9.46 | [Link](https://www.aliexpress.us/item/3256808047100037.html) |
 | 1.14 inch IPS LCD 135x240 | 1 | pcs | 2.72 | 2.72 | 1 | 2.72 | [Link](https://www.aliexpress.us/item/3256808427301455.html) |
 | 1N4148 SOD-123 Diode | 9 | pcs | 0.04 | 0.33 | 100 | 3.70 | [Link](https://www.aliexpress.us/item/3256806021629352.html) |
 | Cherry MX Switch | 9 | pcs | 0.77 | 6.95 | 10 | 7.72 | [Link](https://www.aliexpress.us/item/3256808812099705.html) |
@@ -57,7 +57,7 @@ Rendered on Fusion360!
 | M2 14mm Screws | 4 | pcs | 0.04 | 0.14 | 50 | 1.75 | [Link](https://www.aliexpress.us/item/2251832785290389.html) |
 | PCB | 1 | pcs | 0.80 | 0.80 | 5 | 4.00 | [Link](https://jlcpcb.com) |
 | PLA 3D Printed Case | 1 | pcs | - | - | - | - |
-| **Total** | **30** | **-** | **-** | **24.87** | **-** | **35.21** | **-** |
+| **Total** | **30** | **-** | **-** | **20.52** | **-** | **30.86** | **-** |
 
 # Build and Assembly 🔧
 
